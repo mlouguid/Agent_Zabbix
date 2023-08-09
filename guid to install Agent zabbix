@@ -1,0 +1,7 @@
+#You can mark the file as executable:
+
+chmod +x agent_zabbix.sh 
+
+#You can then execute it like this:
+
+./agent_zabbix.sh
